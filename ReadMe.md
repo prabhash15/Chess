@@ -4,7 +4,6 @@ The main objective is to demonstrate how a chess bot can be built using DAA/AI a
 
 ## How to Run
 ```bash
-cd /home/prabhash/Desktop/PBL-DAA
 python3 main.py
 ```
 
