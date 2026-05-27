@@ -19,7 +19,7 @@ python3 main.py
 Default mode: Human plays White, bot plays Black, difficulty is Medium.
 ## Project Structure
 ```text
-PBL-DAA/
+Chess/
 ├── main.py
 ├── src/
 │   ├── ai.py, board.py, game.py, piece.py
